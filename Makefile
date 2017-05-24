@@ -1,6 +1,6 @@
 REPOSITORY := erwinnttdata
 NAME := merge-yaml
-VERSION ?= 1.0-012
+VERSION ?= 1.0
 BUILD_PATH=/usr/local/bin
 
 build: _build ##@targets Builds the docker image.
